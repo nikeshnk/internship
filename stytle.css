@@ -1,0 +1,42 @@
+body{
+    background: rgb(185, 244, 244);
+}
+
+.buttom{
+    background: rgb(247, 238, 238);
+}
+
+.imgBox{
+    background-image: url(DHONI5.jpg);
+    position: relative;
+    top: 5px;
+    left: 5px;
+    height: 145px;
+    width: 145px;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+.whiteBox{
+    display: inline-block;
+    height: 155px;
+    width: 155px;
+    margin: 10px;
+    background-color: aliceblue;
+    border: rgb(65, 95, 63) solid;
+    border-radius: 10%;
+   
+}
+
+.hold{
+    border: solid rgb(75, 200, 8) 4px;
+}
+
+.dashed{
+    background: lightgreen;
+    border-style: dashed;
+}
+
+.hide{
+    display: none;
+}
